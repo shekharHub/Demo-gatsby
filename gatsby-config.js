@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Shekhar's Blog`,
+    title: `Dewang Shekhar's Blog`,
     author: {
       name: `Dewang Shekhar`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `Who is the most chill person on this planet.`,
     },
     description: `Personal blogging website of Mr.Dewang shekhar.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
