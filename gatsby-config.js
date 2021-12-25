@@ -3,7 +3,7 @@ module.exports = {
     title: `Dewang's Blog`,
     author: {
       name: `Dewang Shekhar`,
-      summary: `Who is the most chill person on this planet.`,
+      summary: `Who loves coading.`,
     },
     description: `Personal blogging website of Mr.Dewang shekhar.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
